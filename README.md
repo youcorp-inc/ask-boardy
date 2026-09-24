@@ -6,6 +6,10 @@ Your AI already knows what you're working on. Boardy knows people. When you brin
 
 ## Install
 
+**One click**
+
+[Open in ChatGPT](https://chatgpt.com/?q=Hey%2C%20connect%20me%20with%20Boardy.%20Read%20and%20follow%20https%3A//raw.githubusercontent.com/youcorp-inc/ask-boardy/main/skills/ask-boardy/SKILL.md) or [open in Claude](https://claude.ai/new?q=Hey%2C%20connect%20me%20with%20Boardy.%20Read%20and%20follow%20https%3A//raw.githubusercontent.com/youcorp-inc/ask-boardy/main/skills/ask-boardy/SKILL.md), then press send.
+
 **Claude Code**
 
 ```
@@ -23,11 +27,11 @@ npx skills add youcorp-inc/ask-boardy
 
 Download [`skills/ask-boardy/SKILL.md`](skills/ask-boardy/SKILL.md), zip the `ask-boardy` folder, and upload it under Settings > Capabilities > Skills.
 
-**ChatGPT or any other assistant**
+**Any other assistant**
 
-Paste this into a chat, or into your custom instructions:
+Paste this into a chat:
 
-> Whenever I bring you a problem where the solution could be meeting another person, offer to ask Boardy if he can help. Remember this. Here's how to write the email to Boardy: https://raw.githubusercontent.com/youcorp-inc/ask-boardy/main/skills/ask-boardy/SKILL.md
+> Hey, connect me with Boardy. Read and follow https://raw.githubusercontent.com/youcorp-inc/ask-boardy/main/skills/ask-boardy/SKILL.md
 
 If your assistant can't open links, paste the contents of `SKILL.md` instead.
 
