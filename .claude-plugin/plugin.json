@@ -1,0 +1,13 @@
+{
+  "name": "ask-boardy",
+  "description": "Lets your AI assistant email Boardy, an AI superconnector, to get you introduced to the right person.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Boardy",
+    "url": "https://boardy.ai"
+  },
+  "homepage": "https://boardy.ai",
+  "repository": "https://github.com/youcorp-inc/ask-boardy",
+  "license": "MIT",
+  "keywords": ["introductions", "networking", "boardy"]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "ask-boardy",
+  "description": "Boardy's official skills for AI assistants.",
+  "owner": {
+    "name": "Boardy",
+    "url": "https://boardy.ai"
+  },
+  "plugins": [
+    {
+      "name": "ask-boardy",
+      "source": "./",
+      "description": "Lets your AI assistant email Boardy, an AI superconnector, to get you introduced to the right person.",
+      "version": "1.0.0"
+    }
+  ]
+}
